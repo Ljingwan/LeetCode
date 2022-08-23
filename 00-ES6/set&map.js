@@ -1,10 +1,10 @@
 /*
  * @Author: jingwan.li
  * @Date: 2022-08-22 14:35:40
- * @LastEditTime: 2022-08-22 17:39:09
+ * @LastEditTime: 2022-08-23 17:29:59
  * @LastEditors: jingwan.li
  * @Description:
- * @FilePath: \LeetCode\01-twoSum\twoSum-02.js
+ * @FilePath: \LeetCode\00-ES6\set&map.js
  *
  */
 
@@ -35,3 +35,6 @@ let noDuplicate = function (arr) {
 };
 
 console.log(noDuplicate([1, 2, 3, 4, 5, 6, 6, 6, 6, 6]));
+
+
+// Map()
